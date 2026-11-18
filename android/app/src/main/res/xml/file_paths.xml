@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Only the try-on capture folder is shareable with other apps -->
+<paths>
+    <cache-path name="captures" path="captures/" />
+</paths>
